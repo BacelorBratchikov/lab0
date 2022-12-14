@@ -1,0 +1,15 @@
+C:\Users\bratc\source\repos\Лабораторная работа №4\Лабораторная работа №4\bin\Debug\net6.0\Задание № 9.19.exe
+C:\Users\bratc\source\repos\Лабораторная работа №4\Лабораторная работа №4\bin\Debug\net6.0\Задание № 9.19.deps.json
+C:\Users\bratc\source\repos\Лабораторная работа №4\Лабораторная работа №4\bin\Debug\net6.0\Задание № 9.19.runtimeconfig.json
+C:\Users\bratc\source\repos\Лабораторная работа №4\Лабораторная работа №4\bin\Debug\net6.0\Задание № 9.19.dll
+C:\Users\bratc\source\repos\Лабораторная работа №4\Лабораторная работа №4\bin\Debug\net6.0\Задание № 9.19.pdb
+C:\Users\bratc\source\repos\Лабораторная работа №4\Лабораторная работа №4\obj\Debug\net6.0\Задание № 9.19.csproj.AssemblyReference.cache
+C:\Users\bratc\source\repos\Лабораторная работа №4\Лабораторная работа №4\obj\Debug\net6.0\Задание № 9.19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bratc\source\repos\Лабораторная работа №4\Лабораторная работа №4\obj\Debug\net6.0\Задание № 9.19.AssemblyInfoInputs.cache
+C:\Users\bratc\source\repos\Лабораторная работа №4\Лабораторная работа №4\obj\Debug\net6.0\Задание № 9.19.AssemblyInfo.cs
+C:\Users\bratc\source\repos\Лабораторная работа №4\Лабораторная работа №4\obj\Debug\net6.0\Задание № 9.19.csproj.CoreCompileInputs.cache
+C:\Users\bratc\source\repos\Лабораторная работа №4\Лабораторная работа №4\obj\Debug\net6.0\Задание № 9.19.dll
+C:\Users\bratc\source\repos\Лабораторная работа №4\Лабораторная работа №4\obj\Debug\net6.0\refint\Задание № 9.19.dll
+C:\Users\bratc\source\repos\Лабораторная работа №4\Лабораторная работа №4\obj\Debug\net6.0\Задание № 9.19.pdb
+C:\Users\bratc\source\repos\Лабораторная работа №4\Лабораторная работа №4\obj\Debug\net6.0\Задание № 9.19.genruntimeconfig.cache
+C:\Users\bratc\source\repos\Лабораторная работа №4\Лабораторная работа №4\obj\Debug\net6.0\ref\Задание № 9.19.dll

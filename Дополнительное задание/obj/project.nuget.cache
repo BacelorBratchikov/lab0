@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k2Bz+INwTG73dUVXoJSh///wEaP2mHsMvQ5uOZoxEjsada98yZjzSB2GA+p5BoNSFbvE/F2TlTM516jo301dww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bratc\\source\\repos\\Лабораторная работа №4\\Дополнительное задание\\Дополнительное задание.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bratc\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}

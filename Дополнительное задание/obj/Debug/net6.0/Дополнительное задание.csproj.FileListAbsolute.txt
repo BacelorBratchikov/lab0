@@ -1,0 +1,15 @@
+C:\Users\bratc\source\repos\Лабораторная работа №4\Дополнительное задание\bin\Debug\net6.0\Дополнительное задание.exe
+C:\Users\bratc\source\repos\Лабораторная работа №4\Дополнительное задание\bin\Debug\net6.0\Дополнительное задание.deps.json
+C:\Users\bratc\source\repos\Лабораторная работа №4\Дополнительное задание\bin\Debug\net6.0\Дополнительное задание.runtimeconfig.json
+C:\Users\bratc\source\repos\Лабораторная работа №4\Дополнительное задание\bin\Debug\net6.0\Дополнительное задание.dll
+C:\Users\bratc\source\repos\Лабораторная работа №4\Дополнительное задание\bin\Debug\net6.0\Дополнительное задание.pdb
+C:\Users\bratc\source\repos\Лабораторная работа №4\Дополнительное задание\obj\Debug\net6.0\Дополнительное задание.csproj.AssemblyReference.cache
+C:\Users\bratc\source\repos\Лабораторная работа №4\Дополнительное задание\obj\Debug\net6.0\Дополнительное задание.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bratc\source\repos\Лабораторная работа №4\Дополнительное задание\obj\Debug\net6.0\Дополнительное задание.AssemblyInfoInputs.cache
+C:\Users\bratc\source\repos\Лабораторная работа №4\Дополнительное задание\obj\Debug\net6.0\Дополнительное задание.AssemblyInfo.cs
+C:\Users\bratc\source\repos\Лабораторная работа №4\Дополнительное задание\obj\Debug\net6.0\Дополнительное задание.csproj.CoreCompileInputs.cache
+C:\Users\bratc\source\repos\Лабораторная работа №4\Дополнительное задание\obj\Debug\net6.0\Дополнительное задание.dll
+C:\Users\bratc\source\repos\Лабораторная работа №4\Дополнительное задание\obj\Debug\net6.0\refint\Дополнительное задание.dll
+C:\Users\bratc\source\repos\Лабораторная работа №4\Дополнительное задание\obj\Debug\net6.0\Дополнительное задание.pdb
+C:\Users\bratc\source\repos\Лабораторная работа №4\Дополнительное задание\obj\Debug\net6.0\Дополнительное задание.genruntimeconfig.cache
+C:\Users\bratc\source\repos\Лабораторная работа №4\Дополнительное задание\obj\Debug\net6.0\ref\Дополнительное задание.dll

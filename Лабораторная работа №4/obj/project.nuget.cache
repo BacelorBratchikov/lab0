@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "j778tGtS26o32nLdH1g1QSmMJhzC+89PE+ggybr88FMgoY7vaZpaTMFtQut3L1bWB1H2HiqsrW+Pa38dBFpbMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bratc\\source\\repos\\Лабораторная работа №4\\Лабораторная работа №4\\Задание № 9.19.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bratc\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}
