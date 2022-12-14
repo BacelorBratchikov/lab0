@@ -5,12 +5,17 @@ namespace ConsoleApp
 {
     internal class Program
     {
+        /// <summary>
+        /// Основная функция, которая создает Персон
+        /// </summary>
+        /// <param name="args"></param>
         static void Main(string[] args)
         {
             try
             {
-                Person person = new Person(string.Empty, "Ivanov", 20);
+                Person person = new Person(string.Empty, "Ivanov", 20, Gender.Male);
             }
+
             catch (ArgumentException exeption)
             {
                 if (exeption.GetType() == typeof(ArgumentNullException)
@@ -20,16 +25,8 @@ namespace ConsoleApp
                 }
             }
 
-            Person partner = new Person("Anastasia", "Kuznetsova", 19);
-            /*
-            person.Partner = partner;
+            Person partner = new Person("Anastasia", "Kuznetsova", 19, Gender.Female);
 
-            for (int i = 0; i < 20; i++)
-            {
-                person.CelebrateHappyBerthday();
-            }
-
-            Console.WriteLine(person.GetInfo());*/
             Console.ReadKey();
         }
     }

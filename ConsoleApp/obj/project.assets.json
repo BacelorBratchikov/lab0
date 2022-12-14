@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bratc\\source\\repos\\Console\\ConsoleApp\\ConsoleApp.csproj",
+      "projectUniqueName": "D:\\MyProject\\Lab0\\ConsoleApp\\ConsoleApp.csproj",
       "projectName": "ConsoleApp",
-      "projectPath": "C:\\Users\\bratc\\source\\repos\\Console\\ConsoleApp\\ConsoleApp.csproj",
+      "projectPath": "D:\\MyProject\\Lab0\\ConsoleApp\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\bratc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bratc\\source\\repos\\Console\\ConsoleApp\\obj\\",
+      "outputPath": "D:\\MyProject\\Lab0\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bratc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\bratc\\source\\repos\\Console\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\bratc\\source\\repos\\Console\\Model\\Model.csproj"
+            "D:\\MyProject\\Lab0\\Model\\Model.csproj": {
+              "projectPath": "D:\\MyProject\\Lab0\\Model\\Model.csproj"
             }
           }
         }

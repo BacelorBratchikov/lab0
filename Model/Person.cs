@@ -4,7 +4,7 @@ using System.Text.RegularExpressions;
 namespace Model
 {
     /// <summary>
-    /// 
+    /// Класс содержит информацию о персонах
     /// </summary>
     public class Person
     {
@@ -28,6 +28,8 @@ namespace Model
 
         private int _age;
 
+        private Gender _gender;
+
         public Person Partner;
 
         /// <summary>
@@ -36,8 +38,10 @@ namespace Model
         /// <param name="name">Имя человека.</param>
         /// <param name="surname">Фамилия.</param>
         /// <param name="age">Возраст.</param>
-        /// <exception cref="ArgumentException"></exception>
-        public Person(string name, string surname, int age)
+        /// <exception cref="ArgumentException">
+        /// Имя не должно быть пустым или null
+        /// </exception>
+        public Person(string name, string surname, int age, Gender gender)
         {
             if (name == null)
             {
@@ -52,14 +56,23 @@ namespace Model
             _name = name;
             _surname = surname;
             _age = age;
+            _gender = gender;
         }
 
+        /// <summary>
+        /// Функция возвращает информацию о персонах
+        /// </summary>
+        /// <returns>Возвращает информацию о персонах</returns>
         public string GetInfo()
         {
-            return $"Person name: {_name}, surname {_surname}, age is {_age}. \n" +
+            return $"Person name: {_name}, surname {_surname}," +
+                $" age is {_age}, gender is {_gender}. \n" +
                 $"Person Partner {Partner?.GetInfo()}";
         }
 
+        /// <summary>
+        /// Функция позволяет добавлять год при праздновании ДР
+        /// </summary>
         public void CelebrateHappyBerthday()
         {
             _age++;

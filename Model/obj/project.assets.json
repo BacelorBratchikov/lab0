@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bratc\\source\\repos\\Console\\Model\\Model.csproj",
+      "projectUniqueName": "D:\\MyProject\\Lab0\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "C:\\Users\\bratc\\source\\repos\\Console\\Model\\Model.csproj",
+      "projectPath": "D:\\MyProject\\Lab0\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\bratc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bratc\\source\\repos\\Console\\Model\\obj\\",
+      "outputPath": "D:\\MyProject\\Lab0\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bratc\\AppData\\Roaming\\NuGet\\NuGet.Config",
