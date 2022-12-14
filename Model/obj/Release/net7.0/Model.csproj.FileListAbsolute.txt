@@ -1,0 +1,12 @@
+C:\Users\bratc\source\repos\Console\Model\bin\Release\net7.0\Model.deps.json
+C:\Users\bratc\source\repos\Console\Model\bin\Release\net7.0\Model.dll
+C:\Users\bratc\source\repos\Console\Model\bin\Release\net7.0\Model.pdb
+C:\Users\bratc\source\repos\Console\Model\obj\Release\net7.0\Model.csproj.AssemblyReference.cache
+C:\Users\bratc\source\repos\Console\Model\obj\Release\net7.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bratc\source\repos\Console\Model\obj\Release\net7.0\Model.AssemblyInfoInputs.cache
+C:\Users\bratc\source\repos\Console\Model\obj\Release\net7.0\Model.AssemblyInfo.cs
+C:\Users\bratc\source\repos\Console\Model\obj\Release\net7.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\bratc\source\repos\Console\Model\obj\Release\net7.0\Model.dll
+C:\Users\bratc\source\repos\Console\Model\obj\Release\net7.0\refint\Model.dll
+C:\Users\bratc\source\repos\Console\Model\obj\Release\net7.0\Model.pdb
+C:\Users\bratc\source\repos\Console\Model\obj\Release\net7.0\ref\Model.dll
