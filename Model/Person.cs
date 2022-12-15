@@ -17,10 +17,36 @@ namespace Model
             }
             private set
             {
-                _name = value;
-            }
-                
+                _name = ChekString(value, nameof(Name));
+            }    
         }
+        public string Surname
+        {
+            get
+            {
+                return _surname;
+            }
+            private set
+            {
+                _surname = ChekString(value, nameof(Surname));
+            }
+        }
+
+        private string ChekString(string value, string propertyName)
+        {
+            if (value == null)
+            {
+                throw new ArgumentException($"{propertyName} should not be null!");
+            }
+
+            if (value == string.Empty)
+            {
+                throw new ArgumentException($"{propertyName} should not be empty!");
+            }
+            return value;
+        }
+
+
 
         internal string _name;
 
@@ -53,7 +79,7 @@ namespace Model
                 throw new ArgumentException("Name should not be empty!");
             }
 
-            _name = name;
+            Name = name;
             _surname = surname;
             _age = age;
             _gender = gender;
