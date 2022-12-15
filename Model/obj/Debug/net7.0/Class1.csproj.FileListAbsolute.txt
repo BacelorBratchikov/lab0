@@ -1,0 +1,12 @@
+C:\Users\bratc\source\repos\Console\Class1\bin\Debug\net7.0\Class1.deps.json
+C:\Users\bratc\source\repos\Console\Class1\bin\Debug\net7.0\Class1.dll
+C:\Users\bratc\source\repos\Console\Class1\bin\Debug\net7.0\Class1.pdb
+C:\Users\bratc\source\repos\Console\Class1\obj\Debug\net7.0\Class1.csproj.AssemblyReference.cache
+C:\Users\bratc\source\repos\Console\Class1\obj\Debug\net7.0\Class1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bratc\source\repos\Console\Class1\obj\Debug\net7.0\Class1.AssemblyInfoInputs.cache
+C:\Users\bratc\source\repos\Console\Class1\obj\Debug\net7.0\Class1.AssemblyInfo.cs
+C:\Users\bratc\source\repos\Console\Class1\obj\Debug\net7.0\Class1.csproj.CoreCompileInputs.cache
+C:\Users\bratc\source\repos\Console\Class1\obj\Debug\net7.0\Class1.dll
+C:\Users\bratc\source\repos\Console\Class1\obj\Debug\net7.0\refint\Class1.dll
+C:\Users\bratc\source\repos\Console\Class1\obj\Debug\net7.0\Class1.pdb
+C:\Users\bratc\source\repos\Console\Class1\obj\Debug\net7.0\ref\Class1.dll
